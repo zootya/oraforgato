@@ -6,7 +6,6 @@ Az óraforgató doboz vezérlése elfüstölt, a DC villanymotor üzemképes. Ú
 
 
 # Megvalósítás
-A lekézenfekvőbb eszköz kiválasztása arduino uno (betáp 3-25V), L298n motorvezérlővel.
+A legkézenfekvőbb eszköz kiválasztása arduino uno (betáp 3-25V), L298n motorvezérlővel.
 
 A DC villanymotor táplálási feszültsége kérdés, jelenleg 12V.
-
