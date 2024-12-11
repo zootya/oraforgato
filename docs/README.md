@@ -1,4 +1,4 @@
-# óraforgató
+# Óraforgató
 Feladat 2024.11.04 -től
 
 # Feladatmeghatározás
